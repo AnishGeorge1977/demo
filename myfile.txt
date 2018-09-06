@@ -1,2 +1,5 @@
 Added sample
+
 This is big trouble for the master branch !!.
+The line got changed.
+
